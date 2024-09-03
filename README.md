@@ -135,6 +135,9 @@ int main()
     cube1.disp_vol(vol);
 }
 ~~~
+
+## Output:
+
 ![image](https://github.com/user-attachments/assets/5e14095e-edb9-4d09-b8e9-ad4302881b6a)
 
 ## Code 5:
